@@ -1,0 +1,108 @@
+table {
+    width: 80%;
+    border: 1px solid black ;
+    margin-top: 100px;
+    margin-left: 100px;
+    border-collapse: collapse;
+    
+
+
+}
+
+
+th,td {
+    border-bottom: 1px solid #ddd;
+    
+    }
+
+    th {
+        padding: 30px;
+        border-bottom: 1px solid black;
+        border-right: 1px solid black;
+        background-color: #ddd;
+    }
+ 
+
+button {
+    padding: 10px 10px ;
+    text-align: center;
+    cursor: pointer;
+}
+
+img {
+    
+    width: 100px;
+    height: 100px;
+    
+}
+
+
+
+.price {
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 30px;
+    border-right: 1px solid #ddd;
+    
+    
+}
+
+
+
+.quantity {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+    padding-bottom: 60px;
+    padding-top: 40px;
+    border-right: 1px solid #ddd;
+    
+}
+
+
+
+
+
+.total-price {
+    text-align: center ;
+    padding-bottom: 60px;
+    padding-top: 40px;
+    border-right: 1px solid #ddd;
+    
+}
+
+.remove {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+
+
+.heart {
+    cursor: pointer;
+    float: right;
+    font-size: 30px;
+}
+
+.image {
+    border-right:1px solid #ddd; 
+}
+
+h1 {
+    text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
